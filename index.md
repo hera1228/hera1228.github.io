@@ -2,9 +2,6 @@
 layout: homepage
 ---
 
-<img width="756" height="521" alt="포트폴리오 메인 이미지" src="https://github.com/user-attachments/assets/81b68f9d-721a-45c4-bb8e-a6583e8f8d1d" />
-
-
 ## About Me
 
 문제의 원인을 분석하고, 안정적인 운영을 위한 해결책을 찾는 과정에 강점을 가진 개발자입니다.
