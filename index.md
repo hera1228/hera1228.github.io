@@ -1,6 +1,9 @@
-<img width="756" height="521" alt="image" src="https://github.com/user-attachments/assets/81b68f9d-721a-45c4-bb8e-a6583e8f8d1d" />---
+---
 layout: homepage
 ---
+
+<img width="756" height="521" alt="포트폴리오 메인 이미지" src="https://github.com/user-attachments/assets/81b68f9d-721a-45c4-bb8e-a6583e8f8d1d" />
+
 
 ## About Me
 
@@ -20,6 +23,3 @@ layout: homepage
 - **[2024. 04]** 영어 영상 기반 학습 서비스에서 자막 추출 및 LLM 퀴즈 생성 API를 개발했습니다.
 - **[2024. 08]** KITRI 보안개발 교육을 수료하며 Java, JDBC, SQL, CentOS7 기반 서버 운영을 학습했습니다.
 
-{% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}
