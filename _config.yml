@@ -9,7 +9,7 @@ email: gad122838@gmail.com
 # keywords: minimal light
 # description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
 # canonical: https://minimal-light-theme.yliu.me/
-keywords: backend developer, portfolio, django, python, financial IT
+keywords: backend developer, Java, Python, Django, MySQL, server infrastructure, GitHub portfolio
 description: Portfolio of Na Ye Eun, a backend developer with experience in backend development, real-time data processing, and service reliability improvement.
 canonical: https://hera1228.github.io/
 
@@ -18,8 +18,8 @@ canonical: https://hera1228.github.io/
 google_scholar: 
 cv_link: assets/files/curriculum_vitae.pdf
 github_link: https://github.com/hera1228
-linkedin: https://www.linkedin.com/
-twitter: 
+# linkedin: https://www.linkedin.com/
+# twitter: 
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
