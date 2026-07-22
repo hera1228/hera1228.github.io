@@ -21,3 +21,7 @@ layout: homepage
 - **[2024. 04]** 영어 영상 기반 학습 서비스에서 자막 추출 및 LLM 퀴즈 생성 API를 개발했습니다.
 - **[2024. 08]** KITRI 보안개발 교육을 수료하며 Java, JDBC, SQL, CentOS7 기반 서버 운영을 학습했습니다.
 - **[2023. 04]** 로보그램 교육 프로그램의 오류와 개선사항을 검수하고 평가문항을 제작했으며, 교재 오타 수정과 문항 채택 성과를 냈습니다.
+
+{% include_relative _includes/publications.md %}
+
+{% include_relative _includes/services.md %}
