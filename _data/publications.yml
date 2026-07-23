@@ -1,5 +1,14 @@
 main:
 
+  - title: 임베딩 벡터 기반 택시 동승자 매칭 서비스
+    authors: Python · Django · MySQL · React · Cosine Similarity · <strong>OpenAI Embeddings</strong>
+    conference_short: AI Matching
+    conference: 실시간 LLM 호출을 임베딩 유사도 계산 방식으로 개선하여 매칭 응답 지연을 96% 단축한 백엔드 시스템, 2025.
+    pdf: ./assets/files/260723_230957.pdf
+    code: https://github.com/hera1228/campusta
+    image: ./assets/img/taxi.png
+    notes: 장려상 수상
+
   - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
     authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
     conference_short: MICCAI
