@@ -13,7 +13,7 @@ main:
     authors: <strong>백엔드 개발</strong> | Python · Django · REST API · LLM · MySQL
     conference_short: LLM API
     conference: 영어 영상의 자막을 추출해 LLM 기반 학습 퀴즈를 생성하고, JSON 출력 형식 고정과 응답 검증·재요청 로직을 적용해 배포 후 파싱 오류를 0건으로 개선한 백엔드 시스템, 2024.
-    pdf: youtube.com/watch?v=ByeAqd8mwyg&feature=youtu.be
+    pdf: https://www.youtube.com/watch?v=ByeAqd8mwyg
     pdf_label: YouTube
     code: https://github.com/hera1228/englishsolution_backend
     image: ./assets/img/haniium-english-project.png
