@@ -23,5 +23,3 @@ layout: homepage
 - **[2023. 04]** 로보그램 교육 프로그램의 오류와 개선사항을 검수하고 평가문항을 제작했으며, 교재 오타 수정과 문항 채택 성과를 냈습니다.
 
 {% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}
