@@ -17,7 +17,7 @@ main:
     code: https://github.com/hera1228/englishsolution_backend
     extra_link: https://www.youtube.com/watch?v=ByeAqd8mwyg
     extra_label: YouTube
-    image: ./assets/img/haniium-english-project.png
+    image: ./assets/img/video-learning.png
     notes: 한이음 ICT 멘토링
 
   - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
