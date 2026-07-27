@@ -20,6 +20,16 @@ main:
     image: ./assets/img/video-learning.png
     notes: 한이음 ICT 멘토링
 
+  - title: 조경관리 기업 서비스 소개 웹페이지
+    authors: <strong>웹 개발</strong> | React · HTML · CSS · JavaScript · 반응형 웹
+    conference_short: COMPANY WEB
+    conference: 조경관리 전문가의 현장 경험과 전문성을 효과적으로 전달할 수 있도록 기업 소개, 조경관리 서비스, 시공 사례, 상담 안내를 구성하고 다양한 화면 크기에 대응하는 반응형 상세페이지를 제작한 웹 프로젝트, 2026.
+    code: https://github.com/hera1228/Jacob-garden
+    extra_link: http://songlim.store/
+    extra_label: Website
+    image: ./assets/img/landscape-management.png
+    notes: 조경관리 기업 외주 프로젝트
+
   - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
     authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
     conference_short: MICCAI
